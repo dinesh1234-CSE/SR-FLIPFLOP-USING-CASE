@@ -32,6 +32,17 @@ By using three variable K-Map, we can get the simplified expression for next sta
  
 The maximum possible groupings of adjacent ones are already shown in the figure. Therefore, the simplified expression for next state Qt+1t+1 is Q(t+1)=S+R′Q(t)Q(t+1)=S+R′Q(t)
 
+**Truth Table**
+
+![Screenshot 2024-12-04 160059](https://github.com/user-attachments/assets/96a53855-6430-4f4a-903e-d4db58f46cc4)
+
+
+**Procedure**
+
+ /* 1.Type the program in Quartus software. 2.Compile and run the program. 3.Generate
+ the RTL schematic and save the logic diagram. 4.Create nodes for inputs and outputs to
+ generate the timing diagram. 5.Generate the timing diagram for different input
+ combinations. */
 
 
 **PROGRAM**
